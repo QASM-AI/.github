@@ -1,1 +1,1 @@
-##### OpenQASM AI project
+###### A small organization for creating cool stuff.
